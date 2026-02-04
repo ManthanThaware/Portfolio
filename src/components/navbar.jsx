@@ -7,7 +7,7 @@ export default function Navbar() {
     <nav className="fixed top-0 w-full bg-gray-900/80 backdrop-blur border-b border-gray-800 z-50">
       <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
         <h2 className="text-xl font-bold">
-          Manthan<span className="text-blue-400">.dev</span>
+          Manthan<span className="text-blue-400">.dev MT</span>
         </h2>
 
         {/* Desktop Menu */}
@@ -23,7 +23,7 @@ export default function Navbar() {
           className="md:hidden text-2xl"
           onClick={() => setOpen(!open)}
         >
-          ☰
+          ☰ 
         </button>
       </div>
 
