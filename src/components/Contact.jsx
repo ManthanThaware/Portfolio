@@ -8,6 +8,8 @@ export default function Contact(){
           <p className="text-gray-400 mb-8">📧manthanthaware01@gmail.com</p>
                     <p className="text-gray-400 mb-8"> 📞+91 772 101 0273</p>
           <p className="text-gray-400 mb-8">📍 Nagpur, Maharashtra </p>
+                    <p className="text-gray-400 mb-8">LinkedIn: </p>
+
 
           <a href="mailto:manthanthaware01@gmail.com" className="px-8 py-3 bg-blue-500 rounded-xl hover:bg-blue-600">Send Email</a>
         </div>
